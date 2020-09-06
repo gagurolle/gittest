@@ -1,0 +1,1 @@
++cl_showfps 4 -novid -forcenovsync +fps_max 0 -threads 11 -dxlevel 95
